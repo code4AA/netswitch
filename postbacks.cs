@@ -1,0 +1,6 @@
+﻿namespace netswitch
+{
+    class postbacks
+    {
+    }
+}
